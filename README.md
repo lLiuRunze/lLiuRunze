@@ -41,10 +41,9 @@ A passionate **Quantitative Researcher** specializing in financial machine learn
 ## 🛠️ Technical Skills  
 | Category | Tools & Technologies |
 |----------|----------------------|
-| Programming | Python (Pandas/Polars/PyTorch/HuggingFace) | C++ | Linux | LeetCode (300+ problems solved) |
-| Machine Learning | LightGBM | XGBoost | Random Forest | CNN | LSTM | MoE | RL |
-| Quant Finance | CVXPY | Barra | Factor Analysis | Backtesting | OHLC Data Processing |
-| Others | Git | GitHub Pages | Tailwind CSS | Font Awesome |
+| Programming | Python (Pandas/Polars/PyTorch/HuggingFace)  C++  Linux  LeetCode (300+ problems solved) |
+| Machine Learning ｜ LightGBM  XGBoost  Random Forest  CNN  LSTM  MoE  RL |
+| Quant Finance | CVXPY  Barra  Factor Analysis  Backtesting  OHLC Data Processing |
 
 ---
 
